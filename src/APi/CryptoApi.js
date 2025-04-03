@@ -11,4 +11,4 @@ const CryptoApi = async () =>{
     }
 }
 
-export default CryptoApi()
+export default CryptoApi
